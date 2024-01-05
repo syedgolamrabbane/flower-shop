@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+    font-family: lato sans-serif;
+}
+/* ------------header section --------------- */
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    padding: 0px 100px;
+}
+.img{
+    width: 300px;
+    height: 400px;
+}
+.banner-titel{
+    color: #272727;
+    font-size: 70px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.banner-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.banner-btn{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+}
+.header-text{
+    width: 50%;
+}
+.header-flower{
+    width: 50%;
+    margin-top: 20px;
+}
